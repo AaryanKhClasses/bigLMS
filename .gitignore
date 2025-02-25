@@ -1,0 +1,12 @@
+/node_modules
+package-lock.json
+
+/.next/
+/out/
+/build
+.vercel
+
+*.env
+
+*.tsbuildinfo
+next-env.d.ts
